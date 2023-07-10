@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+table {
+  border: solid 1px black;
+  border-collapse: collapse;
+}
+th {
+  background-color: black;
+  border: solid 1px black;
+  color: white;
+  align-items: center;
+  width: 120px;
+}
+
+tr {
+  border: solid 1px black;
+}
+
+td {
+  border: solid 1px black;
+  margin: 0;
+  padding: 0;
+}
+.event {
+  color: white;
+  font-size: small;
+  margin: 2px;
+}
+.day{
+  width: 100%;
+}
